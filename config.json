@@ -4,8 +4,8 @@
       "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/V7nMjZHEpvYjXrJzQNEgqu/graphql",
       "headers": {
         "cs": {
-          "AC-View-ID": "{{HEADER_VALUE}}",
-          "AC-Price-Book-ID": "{{HEADER_VALUE}}"
+          "AC-View-ID": "850a43e2-393f-4e73-a50f-6266c242b80b",
+          "AC-Price-Book-ID": "global_visibility"
         }
       },
       "commerce-b2b-enabled": false,
@@ -20,7 +20,7 @@
         "store-url": "{{STORE_URL}}",
         "store-view-currency-code": "{{CURRENCY_CODE}}",
         "storefront-template": "{{TEMPLATE_TYPE}}",
-        "view-id": "{{CATALOG_VIEW_ID}}"
+        "view-id": "850a43e2-393f-4e73-a50f-6266c242b80b"
       },
       "plugins": {
         "picker": {
